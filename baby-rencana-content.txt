@@ -2,6 +2,7 @@ RENCANA MENGHUJAT REZA YANG DISELINGKUHIN
 
 - Hujat reza
   * bilang b aja sampai dia mampus
+- Struktur data dasar
 - Hujat inda
 - membuat project
 - menambah project
