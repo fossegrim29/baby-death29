@@ -2,8 +2,10 @@ RENCANA MENGHUJAT REZA YANG DISELINGKUHIN
 
 - Hujat reza
   * bilang b aja sampai dia mampus
-- Struktur data dasar
+    & AngulerJS
+    & bilang kampret sampai mampus
 - Hujat inda
 - membuat project
 - menambah project
+  Membuat project TK-FIORETTI
 - menjadikan reza badut
