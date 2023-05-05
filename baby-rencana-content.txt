@@ -2,7 +2,10 @@ RENCANA MENGHUJAT REZA YANG DISELINGKUHIN
 
 - Hujat reza
   * bilang b aja sampai dia mampus
-    & bilang bapakmu sampai mampus
+    & AngulerJS
+- Hujat inda
+- membuat project
+- menambah project
     & bilang kampret sampai mampus
 - Struktur data dasar
 - Hujat inda
