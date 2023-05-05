@@ -3,9 +3,8 @@ RENCANA MENGHUJAT REZA YANG DISELINGKUHIN
 - Hujat reza
   * bilang b aja sampai dia mampus
     & AngulerJS
-- Hujat inda
-- membuat project
-- menambah project
+    & Vue
+    $ ReactJS
     & bilang kampret sampai mampus
 - Struktur data dasar
 - Hujat inda
@@ -14,3 +13,4 @@ RENCANA MENGHUJAT REZA YANG DISELINGKUHIN
   tk-fioretti
 - menjadikan reza badut
 - materi python
+- Selesaikan admin tk-fioreti
